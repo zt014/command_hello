@@ -1,2 +1,2 @@
-# ossdhkim
-시험
+# firstGitHub
+test for firstGitHub
